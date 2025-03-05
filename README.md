@@ -35,9 +35,7 @@ This project showcases a **3D interactive card hover effect** using **HTML, CSS,
 
 ![alt text](image.png)
 
-![alt text](image-1.png)
-
-![alt text](image-2.png)
+![alt text](image-1.png)  ![alt text](image-2.png)
 
 ## 🤝 Contributing  
 If you have suggestions for improvements, feel free to fork this repository and create a pull request.  
